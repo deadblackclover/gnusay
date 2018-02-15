@@ -1,6 +1,6 @@
 {
   "name": "gnusay",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "GNU Say",
   "main": "main.js",
   "scripts": {

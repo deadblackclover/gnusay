@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var gnu = " .= .-_-. =.\n((_/)o o(\\_)) \n `-'(. .)`-' \n  /| \\_/ |\\ \n ( | GNU | ) \n /'\\_____/'\\ \n \\__)   (__/";
 var input = process.argv[2];
 var text = "    ";
